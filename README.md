@@ -3,8 +3,8 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" type="text/css" href="public/style.css" />
-<script type = "text/javascript" src="public/script.js"></script>
+<link rel="stylesheet" type="text/css" href="main/style.css" />
+<script type = "text/javascript" src="main/script.js"></script>
 
 </head>
 
