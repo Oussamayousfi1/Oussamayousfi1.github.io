@@ -12,7 +12,7 @@
 
 
 <div class="top">
-<img src= 'public/images/fpbm.jpg' class="small-image image-margin"/>
+<img src= 'main/fpbm.jpg' class="small-image image-margin"/>
 <span class="large-text">D3SI</span><br />
 <span class="small-text">Facult&eacute; Polydisciplinaire B&eacute;ni Mellal</span>
 </div>
