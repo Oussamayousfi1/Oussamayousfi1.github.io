@@ -3,8 +3,8 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" type="text/css" href="main/style.css" />
-<script type = "text/javascript" src="main/script.js"></script>
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<script type = "text/javascript" src="/script.js"></script>
 
 </head>
 
@@ -12,7 +12,7 @@
 
 
 <div class="top">
-<img src= 'main/fpbm.jpg' class="small-image image-margin"/>
+<img src= '/fpbm.jpg' class="small-image image-margin"/>
 <span class="large-text">D3SI</span><br />
 <span class="small-text">Facult&eacute; Polydisciplinaire B&eacute;ni Mellal</span>
 </div>
