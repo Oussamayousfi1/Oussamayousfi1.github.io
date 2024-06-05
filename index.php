@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" type="text/css" href="public/style.css" />
-<script type = "text/javascript" src="public/script.js"></script>
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<script type = "text/javascript" src="/script.js"></script>
 
 </head>
 
@@ -11,7 +11,7 @@
 
 
 <div class="top">
-<img src= 'public/images/fpbm.jpg' class="small-image image-margin"/>
+<img src= '/fpbm.jpg' class="small-image image-margin"/>
 <span class="large-text">D3SI</span><br />
 <span class="small-text">Facult&eacute; Polydisciplinaire B&eacute;ni Mellal</span>
 </div>
@@ -29,7 +29,7 @@ Bienvenue dans la page d'acceuil de notre application Web. Vous pouvez gérer d'
 En accédant à la liste, vous pouvez voir le détail d'un étudiant et le modifier ou le supprimer. A partir du menu, vous pouvez ajouter un nouveau étudiant ou afficher toute la liste. Testez!!
 <br />
 <hr />
-<a href ="accueil.html">Acceuil</a> |
+<a href ="index.html">Acceuil</a> |
 <a href ="liste.html">Liste de étudiants</a> |
 <a href ="form.html">Ajouter un étudiant</a>
 <br /><hr /><br />
