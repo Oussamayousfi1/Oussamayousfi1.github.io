@@ -2,8 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<link rel="stylesheet" type="text/css" href="/style.css" />
-<script type = "text/javascript" src="/script.js"></script>
+<link rel="stylesheet" type="text/css" href="public/style.css" />
+<script type = "text/javascript" src="public/script.js"></script>
 
 </head>
 
@@ -11,7 +11,7 @@
 
 
 <div class="top">
-<img src= '/fpbm.jpg' class="small-image image-margin"/>
+<img src= 'public/images/fpbm.jpg' class="small-image image-margin"/>
 <span class="large-text">D3SI</span><br />
 <span class="small-text">Facult&eacute; Polydisciplinaire B&eacute;ni Mellal</span>
 </div>
@@ -59,7 +59,7 @@ Filière:
 ﻿
 <br />
 <hr />
-<a href ="index.html">Acceuil</a> |
+<a href ="accueil.html">Acceuil</a> |
 <a href ="liste.html">Liste de étudiants</a> |
 <a href ="form.html">Ajouter un étudiant</a>
 <br /><hr /><br />
